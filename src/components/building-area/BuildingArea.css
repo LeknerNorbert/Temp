@@ -1,0 +1,8 @@
+.building-area {
+    width: 100px;
+    height: 100px;
+}
+
+.building-area:hover {
+    background-color: #EAF6FF;
+}

@@ -1,0 +1,8 @@
+.church {
+    box-sizing: border-box;
+    padding: 0.5rem;
+    width: 100px;
+    height: 100px;
+    color: #232528;
+    background-color: #009FFD;
+}
